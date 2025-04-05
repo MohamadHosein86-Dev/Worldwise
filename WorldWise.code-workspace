@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "WorldWise",
+			"path": "."
+		},
+		{
+			"name": "data",
+			"path": "../starter/data"
+		}
+	],
+	"settings": {}
+}
