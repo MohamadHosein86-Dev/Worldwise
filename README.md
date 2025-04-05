@@ -1,5 +1,5 @@
 
-<h2 align="left"> Welcome to the WorldWise App! 🌍 </h2>
+<h1 align="left"> Welcome to the WorldWise App! 🌍 </h1>
 
 
 <h4 align="left">Explore the world like never before! 🌟 Dive into a world of knowledge, trivia, and exciting challenges. Learn about different countries, cultures, and more, all while having fun! Answer questions, earn rewards, and track your progress on the global leaderboard! 🚀🎮</h4>
