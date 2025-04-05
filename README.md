@@ -21,5 +21,3 @@
 🌏🎮 Get ready to test your knowledge and see how well you know the world! 
 
 </p>
-
-
